@@ -7,4 +7,7 @@ This repo will follow the Learn MCP Server Documentation provided by Microsoft  
 
 https://microsoft.github.io/agent-academy/special-ops/ms-learn-mcp/
 
+I will try to make this Readme the easy and create a step-by-step instructions that would help to be a reference to the main Microsoft Docs.
+
+# Step 1 Create a blank agent in Copilot Studio
 
