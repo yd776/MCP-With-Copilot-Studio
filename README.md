@@ -11,6 +11,8 @@ I will try to make this Readme the easy and create a step-by-step instructions t
 
 # Step 1 Create a blank agent in Copilot Studio
 
+Create a blank agent and switch off General knowledge and use information from web in Test
+
 <img width="1006" height="537" alt="image" src="https://github.com/user-attachments/assets/ec271f39-7be7-49c3-bf66-3a5e07e747cb" />
 
 Agent Name: Microsoft Product Support Assistant
@@ -30,6 +32,19 @@ For adding custom MCP use the MCP create new option to add your url and server U
 # Step 3 Add the Microsoft Learn Docs MCP server and configure it to the agent 
 
 <img width="854" height="632" alt="image" src="https://github.com/user-attachments/assets/dc3e0072-31d1-4df0-a76f-cb458da036c5" />
+
+# Step 4 Make the following changes to make testing easy
+
+<img width="834" height="526" alt="image" src="https://github.com/user-attachments/assets/4492105e-d824-4239-a875-71512e32c4b2" />
+
+# Step 5 Test
+ Ask questions based on the document and check to see if all working fine 
+
+ <img width="1625" height="705" alt="image" src="https://github.com/user-attachments/assets/a2d7623d-b134-45a3-894a-d2bc003561bc" />
+
+ Add more MCP'S To your project to make better Automaitn and AI use cases :)
+
+
 
 
 
