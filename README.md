@@ -11,3 +11,8 @@ I will try to make this Readme the easy and create a step-by-step instructions t
 
 # Step 1 Create a blank agent in Copilot Studio
 
+<img width="1006" height="537" alt="image" src="https://github.com/user-attachments/assets/ec271f39-7be7-49c3-bf66-3a5e07e747cb" />
+
+Agent Name: Microsoft Product Support Assistant
+
+Agent Description: An agent that answers questions about Microsoft products by searching live Microsoft Learn documentation.
